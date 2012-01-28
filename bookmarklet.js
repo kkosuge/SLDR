@@ -1,0 +1,1 @@
+location.href='http://reader.livedoor.com/subscribe/'+location.href

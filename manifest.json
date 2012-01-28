@@ -1,0 +1,15 @@
+{
+ "background_page": "background.html",
+ "browser_action": {
+ "default_icon": "R.png"
+ },
+ "name": "SLDR",
+ "description": "LDRに追加するだけ〜",
+ "homepage_url": "http://kksg.net",
+ "permissions": [
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1"
+}
